@@ -6,7 +6,7 @@ page{
   height: 100%;
   flex-direction: column;
   overflow: hidden;
-  background-color: #ffffff; 
+  background-color: #264e3d; 
 
 }
 
@@ -20,8 +20,7 @@ page{
   /* background-color: #3697e6; 主页底色 */
   transition: all .5s;
   z-index: 1;
-  padding: 10px 0;
-  background:linear-gradient(#217dc9,#feffff); /*渐变色*/
+  padding: 10px 0;/*渐变色*/
 }
 
 .timer_time-wrap {
